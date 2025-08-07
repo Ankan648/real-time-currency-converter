@@ -9,6 +9,6 @@ Key Features:
 5. Fast, client-side conversion logic with no page reloads
 
 Technologies Used:
-HTML – structure
-CSS – styling and layout
-JavaScript – dynamic behavior and API integration
+1.HTML – structure
+2.CSS – styling and layout
+3.JavaScript – dynamic behavior and API integration
